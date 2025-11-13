@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=>, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <ol type="a">
+        <li>HTML</li>
+        <li>CSS</li>
+        <li>Python</li>
+    </ol>
+    <ul>
+        <li>HTML</li>
+        <LI>css</LI>
+        <li>Python</li>
+    </ul>
+    <table>
+        <tr>
+            <th> Regno</th>
+            <th> Name</th>
+            <th> Mark</th>
+        </tr>
+        <tr>
+            <td>1</td>
+            <td>dhanu</td>
+            <td>100</td>
+        </tr>
+        <tr>
+            <td>2</td>
+            <td>keeru</td>
+            <td>100</td>
+        </tr>
+        <tr>
+            <td>3</td>
+            <td>vaishu</td>
+            <td>100</td>
+        </tr>
+    </table>
+
+
+</body>
+</html>
